@@ -1,0 +1,122 @@
+[
+  {
+    "id": 0,
+    "name": "Discord junk",
+    "count": 3924,
+    "sample_prompts": [
+      "video theme  Message: Pigeon00b (Font: RETRO)  ",
+      "girl fight with eval dragon  Message: 1 Attachment  ",
+      "a man smiling  Message: 1 Attachment  ",
+      "make me a logo with the name patrao  ",
+      "viking runic carved motifs, ancient art, museum display  Message: The Stone (Font: MODERN)  "
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Epic/historical scenes",
+    "count": 9553,
+    "sample_prompts": [
+      "dancers of peruvian folklore dancing Hualas in a festival, 16 mm,  realism, -zoom in, -gs24, -motion 4  ",
+      "Wearing a robe, the free traveler often walks in the mountains and rivers, holding a bag in hand, smiling to reveal freedom and ease.  ",
+      "Salvador Dali water  ",
+      "jesus and many ancient warriors dressed in white. panoramic view  ",
+      "make gojo satoru and sukuna fight during a night on top of buildings.  "
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Animals/creatures",
+    "count": 10132,
+    "sample_prompts": [
+      "shark swimming near diver in cage  ",
+      "schoo teacher saying the little lamb to go out from school  ",
+      "cute cat sleeping  ",
+      "A big bad wolf chases a rabbit with its big mouth open  ",
+      "cat in a hat and coat going down the street on its back legs, black-and-white, cars of 1930s pass by  "
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Cinematic/aesthetic",
+    "count": 12691,
+    "sample_prompts": [
+      "8K, hyper realistic, under the Amazon  ",
+      "farmers talk with alien soldier, black and white, 16 mm, realism, -gs24, -motion 4  ",
+      "old Las Vegas strip signs lights, vintage film aesthetic, low angeled camera shot -ar 9:16 -motion 3  ",
+      "political leader wagging finger at society, realistic, cinematic light --ar 9:16  ",
+      "image of a brain and psychic ability in motion video camera zoom out -ar 9:16  "
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Mixed/general",
+    "count": 15700,
+    "sample_prompts": [
+      "a rover on moon with a big rocket in a huge crater of duration 30 seconds  ",
+      "<a href=\"https://discord.com/channels/1123665496148017235/1129173449592553564/1129698409733967943\" onclick=\"scrollToMessage(event, '1129698409733967943')\">https://discord.com/channels/1123665496148017235/1129173449592553564/1129698409733967943</a> moving  ",
+      "a carrot festival is getting started  ",
+      "jackie chan fighting  ",
+      "geometric swirling ball of energy with red and blue sparks  "
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Women/girls",
+    "count": 8929,
+    "sample_prompts": [
+      "A girl with curious large eyes and an adventurous spirit, dressed in a colorful dress. in the grocery store  ",
+      "woman is young and then becomes old  ",
+      "the camera zooms in under the eyes of a sleeping woman character in the frame, closed eyes are visible close-up  ",
+      "a boy and a girl in the library  ",
+      "A girl with different colored hair sings looking into the mirror, a zombie is coming behind her, but the police shoot her with a gun.  "
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Men/characters",
+    "count": 9636,
+    "sample_prompts": [
+      "Mark Zuckerberg with an Elon Musk in a MMA WWE cage fighting each other -gs 21  ",
+      "void Lord is walking  ",
+      "justin trudeau injecting vaccines into his arm while smoking weed in a large field of cannabis plants -ar 9:16  ",
+      "A man puts things from a shelf in his shopping cart -motion 4  ",
+      "Ed Sheeran on the back  "
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Horror/dark",
+    "count": 7478,
+    "sample_prompts": [
+      "Grainy blurry black and white FILM, horror 1940, home, Andre&#239; Tarkovski, dreamlike, mysterious, misty, nostalgia, oniric, Buried Child Set Design scale model Yale class project, Spiderman: Turn off the Dark  ",
+      "creepy witch walking towards the camera inside a room of a haunted house, 4k, ultra-detailed, ultra-realism, cinematic lighting  ",
+      "An electrifying scene with Emily standing in the alley, surrounded by a radiant light show that dazzles the bullies and protects the smaller boy.Ultra-hd, super-realistic, cinematic 4D  ",
+      "Infinite Conjoined  Butoh Performance  black and white film Alfred Stieglitz 1900s  -motion 4  ",
+      "an old ghost woman in darkness and smoke rushes toward you  "
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Animation/cartoon",
+    "count": 10694,
+    "sample_prompts": [
+      "Visualize a montage depicting life&#39;s journey - diverse scenes showcasing ups and downs, struggles, successes, and moments of perseverance. Emphasize various life stages and experiences that symbolize challenges and growth.  ",
+      "chibi fox in cartoon art style cooking a meet with campfire , clorfull image 16/9 , loop video , merge between 2d and 3d , less detail backgrand , clear sky  ",
+      "a smudged, scratched, and grainy cartoon by Louis Wain dynamically and frantically moving in a dark room. dance is wild, unpredictable and uncanny. soul is empty, german expressionism, restored footage  ",
+      "create three cartoon charters like kids next door, but they are the news buster, 8k 3d animated style dark gray background  ",
+      "(Dragon spitting fire, aerial view, rich in details, filled with fireworks, cool colors, telephoto lens, backlight, flying movements, stunning, spectacular.) -ar 16:9  "
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Nature/landscapes",
+    "count": 11263,
+    "sample_prompts": [
+      "IT`S RAINING  ",
+      "wheat fields  ",
+      "a cartoon image of carrying a lamp in forest  ",
+      "raining, night, town, ultra realistic  ",
+      "Satellite view of Africa, river spanning from coast to coast, accelerated capture of vegetation growth along the river and its tributaries, realistic 16:9 4k  "
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+# env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# ide
+.idea/
+.claude/
+*.iml
+
+# large data
+data/VidProM_unique.csv
+data/embeddings_100k.npy
+data/sample_clustered.csv
+
+# jupyter
+.ipynb_checkpoints/
